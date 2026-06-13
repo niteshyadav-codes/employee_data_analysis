@@ -123,7 +123,7 @@ print(df.groupby('city')['employee_id'].count())
 ## 📈 Phase 3: Matplotlib Charts
 
 ### 1. Bar Chart — Department vs Average Salary
-![Bar Chart](charts/bar_chart.png)
+![Bar Chart]https://github.com/niteshyadav-codes/employee_data_analysis/blob/main/bar.png(charts/bar_chart.png)
 
 ### 2. Pie Chart — Department Distribution
 ![Pie Chart](charts/pie_chart.png)
